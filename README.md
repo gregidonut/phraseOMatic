@@ -1,6 +1,9 @@
 # Phrase-O-Matic
 
-A small commandline app ran on the jvm. Just to help me learn Java
+A small commandline app ran on the jvm. Just to help me learn Java.
+
+## Abstract
+This app prints a phrase that combines phrases from three lists, randomly.
 
 ## Basic flow
 
